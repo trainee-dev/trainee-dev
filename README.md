@@ -2,7 +2,6 @@
 - 👀  I’m interested in development for mobile devices
 -  :books: currently learning C++ and game dev with Ubisoft
 - :mag: looking for a trainee position
-- :e-mail: my e-mail: trainee.dev21@gmail.com
 - :computer: skype: dmitriy.vasilenko_2
 
 <!---
